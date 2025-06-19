@@ -4,7 +4,7 @@ This project implements an intelligent one-day tour planning assistant that dyna
 
 ## Features
 - Personalized itinerary suggestions tailored to user preferences.
-- Memory management using **LLM-generated triplets** stored in a **Neo4j graph database**.
+- Memory management using **LLM-generated triplets** stored in a **Neo4j graph database** (This part is only implemented in case of multiple users)
 - Real-time dynamic updates to the itinerary based on user feedback.
 - Supports at least three distinct user personas with unique preferences.
 
